@@ -1,5 +1,5 @@
 export const global = {
-  nombrePrograma: 'Promoción donación de sangre',
+  nombrePrograma:'Promoción donación de sangre',
   codigo: '33130210',
   horas: 48,
   semanas: 4,
@@ -7,11 +7,11 @@ export const global = {
   requisitosIngrso: [
     '	Técnicos o Auxiliares en Enfermería o Salud Pública.',
     '	Técnicos en Mercadeo o temas afines vinculados con los Bancos de Sangre. .',
-    ' Estudiantes de último semestre de Bacteriología, Enfermería y Medicina. .',
+    ' Estudiantes de último semestre de Bacteriología, Enfermería y Medicina. .'
   ],
   // imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   videoBannerPrincipal:
-    '<iframe width="560" height="315" src="https://www.youtube.com/embed/3YqT8QptGvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+  '<iframe width="560" height="315" src="https://www.youtube.com/embed/3YqT8QptGvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
   fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
 }
 

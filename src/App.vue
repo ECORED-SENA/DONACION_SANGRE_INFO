@@ -23,7 +23,7 @@ export default {
     globalData: global,
   }),
   created() {
-    document.title = 'Apropiación de los conceptos en ciberseguridad'
+    document.title = this.globalData.componenteFormativo
   },
 }
 </script>

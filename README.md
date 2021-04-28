@@ -1,8 +1,8 @@
-# **Promoción donación de sangre**
+# **sena-base-2021 v1.2.1**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/DONACION_SANGRE_INFO/](https://ecored-sena.github.io/DONACION_SANGRE_INFO/)
+[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
 
 #
 
