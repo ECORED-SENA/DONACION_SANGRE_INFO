@@ -6,8 +6,8 @@ export const global = {
   modalidad: 'virtual',
   requisitosIngrso: [
     '	Técnicos o Auxiliares en Enfermería o Salud Pública.',
-    '	Técnicos en Mercadeo o temas afines vinculados con los Bancos de Sangre. .',
-    ' Estudiantes de último semestre de Bacteriología, Enfermería y Medicina. .',
+    '	Técnicos en Mercadeo o temas afines vinculados con los Bancos de Sangre.',
+    ' Estudiantes de último semestre de Bacteriología, Enfermería y Medicina.',
   ],
   // imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   videoBannerPrincipal:
