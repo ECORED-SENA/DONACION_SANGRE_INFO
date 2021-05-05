@@ -1,5 +1,5 @@
 export const global = {
-  nombrePrograma: 'Promoción donación de sangre',
+  nombrePrograma: 'Promoción de la donación de sangre',
   codigo: '33130210',
   horas: 48,
   semanas: 4,
