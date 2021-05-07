@@ -23,7 +23,7 @@ section
     .titulo__template--a.mb-4
       span.h6 2. Justificación del programa
 
-    p Las redes especiales requieren talento humano en salud con una preparación específica en promoción de la donación, basada en conceptos de actualidad para el fortalecimiento de la salud pública, contribuyendo al cumplimiento de los requerimientos de capacitación y actualización de los profesionales y técnicos del área de la salud, aportando en el mejoramiento de la practica actual y en el desarrollo de la competencia técnica especifica en el área de promoción de la donación, adquiriendo conocimientos relacionados con los derechos y principios éticos de los donantes, consentimiento informado, normatividad, gestión de los donantes y demás temas de interés que se encuentran relacionados con su labor. 
+    p Las redes especiales requieren talento humano en salud con una preparación específica en promoción de la donación, basada en conceptos de actualidad para el fortalecimiento de la salud pública, contribuyendo al cumplimiento de los requerimientos de capacitación y actualización de los profesionales y técnicos del área de la salud, aportando en el mejoramiento de la práctica actual y en el desarrollo de la competencia técnica especifica en el área de promoción de la donación, adquiriendo conocimientos relacionados con los derechos y principios éticos de los donantes, consentimiento informado, normatividad, gestión de los donantes y demás temas de interés que se encuentran relacionados con su labor. 
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
@@ -38,7 +38,11 @@ section
     p 1.  Nivel académico adecuado para caracterizar al aspirante de acuerdo con el perfil de egreso.
     p 2.	Requiere formación mínima del nivel técnico, en áreas de la salud o ciencias humanas o mercadeo o diseño gráfico o publicidad. 
     p 3.	Edad mínima: 16 años en adelante.
-    p 4.	Aspectos estudiantes, motivacionales o de interés: dinámico en el trabajo tanto en ambiente abiertos como cerrados, propositivo y de fácil adaptación a cambios  tecnológicos.  Con habilidades de comunicación que faciliten la participación ciudadana e interacción con ellos, con capacidad de escuchar. Creativo y generador y estrategias para informar adecuadamente a los donantes potenciales en pro de la seguridad transfusional y el fortalecimiento de la salud pública. Reflexivo en que los donantes de sangre son sujetos de derechos y que se deben ver desde esta óptica, en cualquier situación en la que se realiza promoción de la donación.
+    p 4.	Aspectos estudiantes, motivacionales o de interés: dinámico en el trabajo tanto en ambientes abiertos como cerrados, propositivo y de fácil 
+    p.p   adaptación a cambios tecnológicos.  Con habilidades de comunicación que faciliten la participación ciudadana e interacción con ellos, con 
+    p.p   capacidad de escuchar. Creativo y generador y estrategias para informar adecuadamente a los donantes potenciales en pro de la seguridad 
+    p.p   transfusional y el fortalecimiento de la salud pública.      Reflexivo en que los donantes de sangre son sujetos de derechos y que se deben ver desde 
+    p.p   esta óptica, en cualquier situación en la que se realiza promoción de la donación.
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
